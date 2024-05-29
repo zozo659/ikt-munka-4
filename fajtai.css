@@ -1,0 +1,28 @@
+.meretek{
+    color: aquamarine;
+  }
+  ul{
+    background-color:  rgb(46, 0, 0);
+    overflow: hidden;
+    list-style: none;
+  }
+  ul li{
+    display: inline-block;
+  }
+  ul li a{
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+  }
+  ul li a:hover{
+    background-color:red;
+    border-radius: 8px
+  }
+  body{
+    background-image:url(hatterkep2.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+  color: azure;
+  }
